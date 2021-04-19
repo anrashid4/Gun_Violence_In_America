@@ -1,4 +1,4 @@
-# Gun_Violence_In_America
+# Mass_Shootings_In_America
 
  ## Summary
 
@@ -15,6 +15,11 @@ https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-da
 The first step in the data exploration process is to find a method to connect the downloaded CSV to PostgreSQL. One method which makes it easy to do so is using Python along with the Pandas library. After loading in the dataframe, I can import sqlalchemy which allows for a direct connection from my csv to the database within PostgreSQL. 
 
 ![Screen Shot 2021-04-14 at 2 46 03 PM](https://user-images.githubusercontent.com/62044354/114784483-246c4b00-9d30-11eb-8ac8-0cf40737951c.png)
+
+## Running PostgreSQL commands in Visual Studio Code 
+
+
+https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres
 
 
 
