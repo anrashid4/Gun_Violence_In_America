@@ -16,10 +16,14 @@ The first step in the data exploration process is to find a method to connect th
 
 ![Screen Shot 2021-04-14 at 2 46 03 PM](https://user-images.githubusercontent.com/62044354/114784483-246c4b00-9d30-11eb-8ac8-0cf40737951c.png)
 
-## Running PostgreSQL commands in Visual Studio Code 
+## Running PostgreSQL commands
+
+After loading in the csv to PostgreSQL. I decided to do some exploratory data analysis to see how messy the data was. The first step was to include only the necessary columns which were needed and insert them into a new table. I then went ahead and created a condition using WHERE and inserted the columns which fit the condition into a new table named new_data_frame. 
+
+![Screen Shot 2021-04-21 at 2 04 47 PM](https://user-images.githubusercontent.com/62044354/115622339-91419100-a2ac-11eb-9922-2f1dc7f5682c.png)
 
 
-https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres
+
 
 
 
