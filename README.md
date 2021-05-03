@@ -22,8 +22,10 @@ After loading in the csv to PostgreSQL. I decided to do some exploratory data an
 
 ![Screen Shot 2021-04-21 at 2 04 47 PM](https://user-images.githubusercontent.com/62044354/115622339-91419100-a2ac-11eb-9922-2f1dc7f5682c.png)
 
+## Running PostgreSQL commands (Part 2) 
 
+After running a few queries to generate some tables. I realized that one of the columns had values which needed to be separted. I proceeded to use PostgreSQL's command: split_part to separate the location data between cities and states. I then joined the new table with the split columns to the original table using an INNER JOIN. The next step is to export the final table to a csv and upload to Tableau. 
 
-
+<img width="438" alt="Screen Shot 2021-05-03 at 7 11 42 PM" src="https://user-images.githubusercontent.com/62044354/116944382-67d91b80-ac43-11eb-96e6-555a0100695c.png">
 
 
