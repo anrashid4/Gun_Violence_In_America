@@ -1,0 +1,125 @@
+index,city,state,cases,date,fatalities,injured,total_victims,age_of_shooter,weapons_obtained_legally,latitude,longitude,year
+86,Brookfield, Wisconsin,Living Church of God shooting,3/12/2005,7,4,11,44,Yes,43.0605671,-88.1064787,2005
+0,Orange, California,Orange office complex shooting,3/31/21,4,1,5,Unknown,Unknown,33.83542,-117.85379,2021
+1,Boulder, Colorado,Boulder supermarket shooting,3/22/21,10,0,10,21,Yes,39.986961,-105.251168,2021
+2,Atlanta, Georgia,Atlanta massage parlor shootings,3/16/21,8,1,9,21,Unknown,34.111653,-84.580376,2021
+3,Springfield, Missouri,Springfield convenience store shooting,3/16/20,4,0,4,31,Unknown,37.210432,-93.23686,2020
+4,Milwaukee, Wisconsin,Molson Coors shooting,2/26/20,5,0,5,51,Unknown,43.044511,-87.962537,2020
+30,Edgewood, Maryland,Edgewood businees park shooting,10/18/17,3,3,6,37,No,39.452189,-76.309988,2017
+112,Killeen, Texas,Luby's massacre,10/16/1991,24,20,44,35,Yes,31.1171194,-97.7277959,1991
+5,Jersey City, New Jersey,Jersey City kosher market shooting,12/10/19,4,3,7,Unknown,Unknown,40.707363,-74.083609,2019
+6,Pensacola, Florida,Pensacola Naval base shooting,12/6/19,3,8,11,Unknown,Unknown,30.364707,-87.288567,2019
+7,Odessa, Texas,Odessa-Midland shooting spree,8/31/19,7,25,32,36,Unknown,31.925974,-102.2796,2019
+8,Dayton, Ohio,Dayton entertainment district shooting,8/4/19,9,27,36,24,Yes,39.757312,-84.184947,2019
+9,El Paso, Texas,El Paso Walmart mass shooting,8/3/19,22,26,48,21,Yes,31.771068,-106.375655,2019
+10,Gilroy, California,Gilroy garlic festival shooting,7/28/19,3,12,15,19,Yes,36.997191,-121.584819,2019
+11,Virginia Beach, Virginia,Virginia Beach municipal building shooting,5/31/19,12,4,16,40,Yes,36.75442,-76.060378,2019
+12,Aurora, Illinois,Harry Pratt Co. warehouse shooting,2/15/19,5,6,11,45,No,41.753725,-88.331057,2019
+13,State College, Pennsylvania,Pennsylvania hotel bar shooting,1/24/19,3,1,4,21,Yes,40.785142,-77.839411,2019
+59,Herkimer County, New York,Mohawk Valley shootings,3/13/2013,5,2,7,64,Yes,43.045601,-74.984891,2013
+14,Sebring, Florida,SunTrust bank shooting,1/23/19,5,0,5,21,Yes,27.471043,-81.45847,2019
+15,Chicago, Illinois,Mercy Hospital shooting,11/19/18,3,0,3,32,Unknown,41.847667,-87.622009,2018
+68,Carson City, Nevada,IHOP shooting,9/6/2011,5,7,12,32,Yes,39.1637984,-119.7674034,2011
+119,San Ysidro, California,San Ysidro McDonald's massacre,7/18/1984,22,19,41,41,Yes,32.5520013,-117.0430813,1984
+16,Thousand Oaks, California,Thousand Oaks nightclub shooting,11/7/18,12,22,34,28,Yes,34.176946,-118.874793,2018
+17,Pittsburgh, Pennsylvania,Tree of Life synagogue shooting,10/27/18,11,6,17,46,Yes,40.443898,-79.921398,2018
+18,Perryman, Maryland,Rite Aid warehouse shooting,9/20/18,3,3,6,26,Yes,39.455658,-76.208485,2018
+19,Bakersfield, California,T&T Trucking shooting,9/12/18,5,0,5,54,Yes,35.349388,-118.916335,2018
+20,Cincinnati, Ohio,Fifth Third Center shooting,9/6/18,3,2,5,29,Yes,39.101981,-84.511782,2018
+21,Annapolis, Maryland,Capital Gazette shooting,6/28/18,5,2,7,38,Yes,38.994548,-76.543657,2018
+22,Santa Fe, Texas,Santa Fe High School shooting,5/18/18,10,13,23,17,TBD,29.392825,-95.141972,2018
+23,Nashville, Tennessee,Waffle House shooting,4/22/18,4,4,8,29,Yes,36.052521,-86.616944,2018
+24,Yountville, California,Yountville veterans home shooting,3/9/18,3,0,3,36,Yes,38.392496,-122.366528,2018
+25,Parkland, Florida,Marjory Stoneman Douglas High School shooting,2/14/18,17,17,34,19,Yes,26.30483,-80.269511,2018
+26,Melcroft, Pennsylvania,Pennsylvania carwash shooting,1/28/18,4,1,5,28,TBD,40.052151,-79.389166,2018
+27,Rancho Tehama, California,Rancho Tehama shooting spree,11/14/17,5,10,15,44,No,40.018759,-122.393089,2017
+28,Sutherland Springs, Texas,Texas First Baptist Church massacre,11/5/17,26,20,46,26,Kelley passed federal criminal background checks; the US Air Force failed to provide information on his criminal history to the FBI,29.273282,-98.056488,2017
+70,Manchester, Connecticut,Hartford Beer Distributor shooting,8/3/2010,9,2,11,34,Yes,41.798764,-72.570068,2010
+29,Thornton, Colorado,Walmart shooting in suburban Denver,11/1/17,3,0,3,47,TBD,39.876374,-104.986132,2017
+31,Las Vegas, Nevada,Las Vegas Strip massacre,10/1/17,58,546,604,64,Yes,36.095739,-115.171544,2017
+32,San Francisco, California,San Francisco UPS shooting,6/14/17,3,2,5,38,No,37.765947,-122.406087,2017
+33,Tunkhannock, Pennsylvania,Pennsylvania supermarket shooting,6/7/17,3,0,3,24,TBD,41.529546,-75.94722,2017
+34,Orlando, Florida,Florida awning manufacturer shooting,6/5/2017,5,0,5,45,TBD,28.580295,-81.294086,2017
+35,Kirkersville, Ohio,Rural Ohio nursing home shooting,5/12/2017,3,0,3,43,TBD,39.959034,-82.596508,2017
+36,Fresno, California,Fresno downtown shooting,4/18/2017,3,0,3,39,Unknown,36.746378,-119.800319,2017
+37,Fort Lauderdale, Florida,Fort Lauderdale airport shooting,1/6/2017,5,6,11,26,Yes,26.072751,-80.143382,2017
+38,Burlington, Washington,Cascade Mall shooting,9/23/2016,5,0,5,20,TBD,48.461367,-122.337918,2016
+39,Baton Rouge, Lousiana,Baton Rouge police shooting,7/17/2016,3,3,6,29,Unknown,30.433601,-91.081403,2016
+40,Dallas, Texas,Dallas police shooting,7/7/2016,5,11,16,25,Yes,32.7801052,-96.8000082,2016
+41,Orlando, Florida,Orlando nightclub massacre,6/12/2016,49,53,102,29,Yes,28.519718,-81.376777,2016
+42,Hesston, Kansas,Excel Industries mass shooting,2/25/2016,3,14,17,38,Yes,38.135992,-97.425145,2016
+43,Kalamazoo County, Michigan,Kalamazoo shooting spree,2/20/2016,6,2,8,45,Yes,42.236689,-85.674795,2016
+44,San Bernardino, California,San Bernardino mass shooting,12/2/2015,14,21,35,28,"
+Yes",34.075961,-117.27789,2015
+45,Colorado Springs, Colorado,Planned Parenthood clinic,11/27/2015,3,9,12,57,Unknown,38.881031,-104.849057,2015
+46,Colorado Springs, Colorado,Colorado Springs shooting rampage,10/31/2015,3,0,3,33,Yes,38.83755,-104.814251,2015
+47,Roseburg, Oregon,Umpqua Community College shooting,10/1/2015,9,9,18,26,Yes,43.289538,-123.333193,2015
+48,Chattanooga, Tennessee,Chattanooga military recruitment center,7/16/2015,5,2,7,24,Yes,35.047157,-85.311819,2015
+49,Charleston, South Carolina,Charleston Church Shooting,6/17/2015,9,1,10,21,Yes,32.788387,-79.933143,2015
+50,Menasha, Wisconsin,Trestle Trail bridge shooting,6/11/2015,3,1,4,27,Yes,44.204124,-88.467541,2015
+51,Marysville, Washington,Marysville-Pilchuck High School shooting,10/24/2014,5,1,6,15,No,48.050824,-122.176918,2014
+57,Santa Monica, California,Santa Monica rampage,6/7/2013,6,3,9,23,Yes ,34.008617,-118.494754,2013
+52,Santa Barbara, California,Isla Vista mass murder,5/23/2014,6,13,19,22,Yes,34.436283,-119.8714406,2014
+53,Fort Hood, Texas,Fort Hood shooting 2,4/3/2014,3,12,15,34,"
+Yes",31.141716,-97.777559,2014
+54,Alturas, California,Alturas tribal shooting,2/20/2014,4,2,6,44,Unknown,41.487104,-120.542237,2014
+55,Washington, D.C.,Washington Navy Yard shooting,9/16/2013,12,8,20,34,Yes,38.874981,-76.99453,2013
+56,Hialeah, Florida,Hialeah apartment shooting,7/26/2013,7,0,7,42,Yes,25.864338,-80.311775,2013
+58,Federal Way, Washington,Pinewood Village Apartment shooting,4/21/2013,5,0,5,27,Yes,47.3129607,-122.3393665,2013
+60,Newtown, Connecticut,Sandy Hook Elementary massacre,12/14/2012,27,2,29,20,No,41.4123225,-73.31142358,2012
+61,Minneapolis, Minnesota,Accent Signage Systems shooting,9/27/2012,7,1,8,36,Yes,44.977425,-93.310408,2012
+62,Oak Creek, Wisconsin,Sikh temple shooting,8/5/2012,7,3,10,40,Yes,42.8858503,-87.8631362,2012
+63,Aurora, Colorado,Aurora theater shooting,7/20/2012,12,70,82,24,Yes,39.706038,-104.820594,2012
+64,Seattle, Washington,Seattle cafe shooting,5/20/2012,6,1,7,40,Yes,47.6038321,-122.3300624,2012
+71,Parkland, Washington,Coffee shop police killings,11/29/2009,4,1,5,37,No,47.15277,-122.467308,2009
+65,Oakland, California,Oikos University killings,4/2/2012,7,3,10,43,Yes,37.8043808,-122.2708166,2012
+66,Norcross, Georgia,Su Jung Health Sauna shooting,2/21/2012,5,0,5,59,Yes,33.9412127,-84.2135309,2012
+67,Seal Beach, California,Seal Beach shooting,10/12/2011,8,1,9,42,Yes,33.741176,-118.1046356,2011
+69,Tucson, Arizona,Tucson shooting,1/8/2011,6,13,19,22,Yes,32.335941,-110.975132,2011
+72,Fort Hood, Texas,Fort Hood massacre,11/5/2009,13,31,44,39,Yes,31.135557,-97.783664,2009
+73,Binghamton, New York,Binghamton shootings,4/3/2009,14,4,18,41,Yes,42.099802,-75.917723,2009
+74,Carthage, North Carolina,Carthage nursing home shooting,3/29/2009,8,3,11,45,Yes,35.333434,-79.414592,2009
+75,Henderson, Kentucky,Atlantis Plastics shooting,6/25/2008,6,1,7,25,Yes,37.76721,-87.5573742,2008
+76,DeKalb, Illinois,Northern Illinois University shooting,2/14/2008,5,21,26,27,Yes,41.9294736,-88.7503647,2008
+77,Kirkwood, Missouri,Kirkwood City Council shooting,2/7/2008,6,2,8,52,No,38.580093,-90.40691,2008
+78,Omaha, Nebraska,Westroads Mall shooting,12/5/2007,9,4,13,19,No,41.265719,-96.067495,2007
+79,Crandon, Wisconsin,Crandon shooting,10/7/2007,6,1,7,20,Yes,45.5719072,-88.9028922,2007
+80,Blacksburg, Virginia,Virginia Tech massacre,4/16/2007,32,23,55,23,Yes,37.2295733,-80.4139393,2007
+81,Salt Lake City, Utah,Trolley Square shooting,2/12/2007,6,4,10,18,Unknown,40.7606467,-111.89109,2007
+82,Lancaster County, Pennsylvania,Amish school shooting,10/2/2006,6,5,11,32,Yes,39.9589,-76.0806,2006
+83,Seattle, Washington,Capitol Hill massacre,3/25/2006,7,2,9,28,Yes,47.6229,-122.3165,2006
+84,Goleta, California,Goleta postal shootings,1/30/2006,8,0,8,44,Yes,34.425571,-119.866069,2006
+85,Red Lake, Minnesota,Red Lake massacre,3/21/2005,10,5,15,16,No,47.876346,-95.0169401,2005
+87,Columbus, Ohio,Damageplan show shooting,12/8/2004,5,7,12,25,Yes,39.9622601,-83.0007065,2004
+88,Meridian, Mississippi,Lockheed Martin shooting,7/8/2003,7,8,15,48,Yes,32.410842,-88.634539,2003
+89,Melrose Park, Illinois,Navistar shooting,2/5/2001,5,4,9,66,Yes,41.908163,-87.879908,2001
+90,Wakefield, Massachusetts,Wakefield massacre,12/26/2000,7,0,7,42,Yes,42.500429,-71.075913,2000
+91,Tampa, Florida,Hotel shooting,12/30/1999,5,3,8,36,Yes,27.966479,-82.570586,1999
+92,Honolulu, Hawaii,Xerox killings,11/2/1999,7,0,7,40,Yes,21.320063,-157.876462,1999
+93,Fort Worth, Texas,Wedgwood Baptist Church shooting,9/15/1999,8,7,15,47,Yes,32.664511,-97.384246,1999
+94,Atlanta, Georgia,Atlanta day trading spree killings,7/29/1999,9,13,22,44,Yes,33.850116,-84.377839,1999
+95,Littleton, Colorado,Columbine High School massacre,4/20/1999,13,24,37,17,No,39.604034,-105.074103,1999
+96,Springfield, Oregon,Thurston High School shooting,5/21/1998,4,25,29,15,No,44.0462362,-123.0220289,1998
+97,Jonesboro, Arkansas,Westside Middle School killings,3/24/1998,5,10,15,11,No,35.8209895,-90.6682606,1998
+98,Newington, Connecticut,Connecticut Lottery shooting,3/6/1998,5,1,6,35,Yes,41.6856325,-72.72983827,1998
+99,Orange, California,Caltrans maintenance yard shooting,12/18/1997,5,2,7,41,Yes,33.7877944,-117.8531119,1997
+100,Aiken, South Carolina,R.E. Phelon Company shooting,9/15/1997,4,3,7,43,No,33.5598586,-81.721952,1997
+101,Fort Lauderdale, Florida,Fort Lauderdale revenge shooting,2/9/1996,6,1,7,41,Yes,26.119269,-80.104119,1996
+102,Corpus Christi, Texas,Walter Rossler Company massacre,4/3/1995,6,0,6,28,Yes,27.828025,-97.548198,1995
+103,Fairchild Air Force Base, Washington,Air Force base shooting,6/20/1994,5,23,28,20,Yes,47.61864486,-117.6483587,1994
+110,Royal Oak, Michigan,Royal Oak postal shootings,11/14/1991,5,5,10,31,Yes,42.4894801,-83.1446485,1991
+104,Aurora, Colorado,Chuck E. Cheese's killings,12/14/1993,4,1,5,19,Unknown,39.675599,-104.844845,1993
+105,Garden City, New York,Long Island Rail Road massacre,12/7/1993,6,19,25,35,Yes,40.7267682,-73.6342955,1993
+106,Fayetteville, North Carolina,Luigi's shooting,8/6/1993,4,8,12,22,Yes,35.0529931,-78.8787058,1993
+107,San Francisco, California,101 California Street shootings,7/1/1993,9,6,15,55,No,37.792968,-122.397973,1993
+108,Watkins Glen, New York,Watkins Glen killings,10/15/1992,5,0,5,50,Yes,42.3810555,-76.8705777,1992
+109,Olivehurst, California,Lindhurst High School shooting,5/1/1992,4,10,14,20,Yes,39.07868761,-121.5475762,1992
+111,Iowa City, Iowa,University of Iowa shooting,11/1/1991,6,1,7,28,Yes,41.6606893,-91.5302214,1991
+113,Jacksonville, Florida,GMAC massacre,6/18/1990,10,4,14,42,Yes,30.3321838,-81.655651,1990
+114,Louisville, Kentucky,Standard Gravure shooting,9/14/1989,9,12,21,47,Yes,38.2542376,-85.759407,1989
+115,Stockton, California,Stockton schoolyard shooting,1/17/1989,6,29,35,26,Yes,37.9577016,-121.2907796,1989
+121,Miami, Florida,Welding shop shooting,8/20/1982,8,3,11,51,Yes,25.796491,-80.226683,1982
+116,Sunnyvale, California,ESL shooting,2/16/1988,7,4,11,39,Yes,37.3688301,-122.0363496,1988
+117,Palm Bay, Florida,Shopping centers spree killings,4/23/1987,6,14,20,59,Yes,28.0331886,-80.6429695,1987
+118,Edmond, Oklahoma,United States Postal Service shooting,8/20/1986,15,6,21,44,Yes,35.6672015,-97.42937037,1986
+120,Dallas, Texas,Dallas nightclub shooting,6/29/1984,6,1,7,39,No,32.925166,-96.838676,1984
